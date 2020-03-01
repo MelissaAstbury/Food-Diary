@@ -1,0 +1,23 @@
+body {
+    background-color: #f5eaea;
+}
+
+h1 {
+    color: #4d4646;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 1280px;
+    flex-wrap: wrap;
+    
+}
+
+.weekdayBox {
+    border: 2px solid black;
+    padding: 10px 10px;
+    width: 20%;
+    margin-bottom: 24px;
+}
